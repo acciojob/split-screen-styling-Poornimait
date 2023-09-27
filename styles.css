@@ -28,12 +28,12 @@ header,footer{
 	display: flex;
 	height: 80vh;
 }
-article{
+#contest > article{
 	width: 62.25vw;
 	minheight: 60vh;
 	padding:1em;
 }
-aside{
+#contest > aside{
 	background-color:lightgray;
 	width: 20.75vw;
 	minheight: 60vh;
