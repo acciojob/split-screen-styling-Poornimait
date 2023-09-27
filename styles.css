@@ -23,6 +23,7 @@ header,footer{
 }
 .content{
 	display: flex;
+	min-width: calc(4*100vw/5);
 	min-height: 80vh;
 }
 .content > article{
